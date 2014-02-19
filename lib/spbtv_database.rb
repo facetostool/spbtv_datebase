@@ -1,8 +1,8 @@
-require 'spbtv_datebase/table'
-require 'spbtv_datebase/request'
-require 'spbtv_datebase/table_initializer'
-require 'spbtv_datebase/version'
-
+require 'spbtv_database/table'
+require 'spbtv_database/request'
+require 'spbtv_database/table_initializer'
+require 'spbtv_database/version'
+require 'spbtv_database/table_configuration'
 
 module Database
 
@@ -18,3 +18,4 @@ module Database
   end
 
 end
+
