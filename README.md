@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install spbtv_database
+    $ gem install spbtv_database-0.0.1.gem
 
 ## Usage
 
